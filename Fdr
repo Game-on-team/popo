@@ -1,0 +1,19 @@
+echo "# popo" >> README.md 
+
+git init 
+
+git add README.md 
+
+git commit -m "primo commit" 
+
+git branch -M main 
+
+git remote add origin https://github.com/Game-on-team/popo. git
+
+ git push -u origin main
+
+git add MOSE.md
+                
+pause
+
+echo '# haha this is not a github file' >> MOSE.md
